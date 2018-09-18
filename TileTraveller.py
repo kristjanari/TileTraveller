@@ -3,7 +3,7 @@
 # hvenær má fara niður og hvenær má fara til vinstri eða hægri
 # Þá látum við N = True eða N = False eftir því hvort þú getur farið upp eða ekki, gerum þetta fyrir allar áttirnar
 # Látum forritið enda þegar x = 3 og y = 1
-# Github repo: https://github.com/Lobos98/TileTraveller
+# Github repo: https://github.com/kristjanari/TileTraveller
 x,y = 1,1
 while (x,y) != (3,1):
     a = x
